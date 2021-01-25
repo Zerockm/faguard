@@ -1,0 +1,10 @@
+C:\Users\Zerockm\source\repos\faguard\faguard\bin\Debug\faguard.exe.config
+C:\Users\Zerockm\source\repos\faguard\faguard\bin\Debug\faguard.exe
+C:\Users\Zerockm\source\repos\faguard\faguard\bin\Debug\faguard.pdb
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.csprojAssemblyReference.cache
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.Form1.resources
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.Properties.Resources.resources
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.csproj.GenerateResource.cache
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.csproj.CoreCompileInputs.cache
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.exe
+C:\Users\Zerockm\source\repos\faguard\faguard\obj\Debug\faguard.pdb
